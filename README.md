@@ -57,6 +57,6 @@ Driftkinks Mod List:
 --------------------------------------------
 --------------------------------------------
 ### Python Part
-    [**PyCharm**](https://www.jetbrains.com/pycharm/): Python IDE for Professional Developers by JetBrains 
- --------------------------------------------
- --------------------------------------------
+[**PyCharm**](https://www.jetbrains.com/pycharm/): Python IDE for Professional Developers by JetBrains 
+--------------------------------------------
+--------------------------------------------
