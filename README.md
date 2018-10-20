@@ -15,7 +15,7 @@ Driftkinks Mod List:
 
 
 ### Mods Description:
-* [BankLoader][] - 
+* [AntiSpam][] - 
 * [BattleTimeFlag][] - 
 * [BorderColor][] - 
 * [CamoSelector][] - 
@@ -36,7 +36,7 @@ Driftkinks Mod List:
 * [UT_Announcer][] - 
 * [VoiceOverrider][] - 
 
-[BankLoader]:./BankLoader/
+[AntiSpam]:./AntiSpam/
 [BattleTimeFlag]:./BattleTimeFlag/ 
 [BorderColor]:./BorderColor/ 
 [CamoSelector]:./CamoSelector/ 
