@@ -3,4 +3,4 @@
     'TO DO'
 
 #### Screenshots:
-![ScreenShot](./BorderColor)
+![ScreenShot](./BorderColor.jpg)
