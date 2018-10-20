@@ -1,4 +1,6 @@
+---------------------------------------------
 Driftkinks Mod List:
+---------------------------------------------
 ---------------------------------------------
  - Suport @mail 'driftkingsmods@gmail.com'
  --------------------------------------------
@@ -30,8 +32,7 @@ Driftkinks Mod List:
 * [StatPaints][] -
 * [UT_Announcer][] - 
 * [VoiceOverrider][] - 
- --------------------------------------------
- --------------------------------------------
+
 [AntiSpam]:./AntiSpam/
 [BattleTimeFlag]:./BattleTimeFlag/ 
 [BorderColor]:./BorderColor/ 
@@ -56,6 +57,6 @@ Driftkinks Mod List:
 --------------------------------------------
 --------------------------------------------
 ### Python Part
-[**PyCharm**](https://www.jetbrains.com/pycharm/): Python IDE for Professional Developers by JetBrains 
+    [**PyCharm**](https://www.jetbrains.com/pycharm/): Python IDE for Professional Developers by JetBrains 
  --------------------------------------------
  --------------------------------------------
