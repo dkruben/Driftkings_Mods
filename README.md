@@ -19,7 +19,7 @@ Driftkinks Mod List:
 * [BattleTimeFlag][] - 
 * [BorderColor][] - 
 * [CamoSelector][] - 
-* [ChatMensages][] - 
+* [ChatMessages][] - 
 * [DispersionCircle][] - 
 * [DKSupport][] - 
 * [ExtendedZoom][] - 
@@ -40,7 +40,7 @@ Driftkinks Mod List:
 [BattleTimeFlag]:./BattleTimeFlag/ 
 [BorderColor]:./BorderColor/ 
 [CamoSelector]:./CamoSelector/ 
-[ChatMensages]:./ChatMensages/ 
+[ChatMessages]:./ChatMessages/ 
 [DispersionCircle]:./DispersionCircle/ 
 [DKSupport]:./DKSupport/
 [ExtendedZoom]:./ExtendedZoom/ 
