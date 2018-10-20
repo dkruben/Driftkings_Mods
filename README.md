@@ -3,16 +3,11 @@ Driftkinks Mod List:
  - Suport @mail 'driftkingsmods@gmail.com'
  --------------------------------------------
  --------------------------------------------
-### Python Part
-[**PyCharm**](https://www.jetbrains.com/pycharm/): Python IDE for Professional Developers by JetBrains 
- --------------------------------------------
- --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
 2. Download **zip** - archive with the mod and extract its contents to a folder **"World_of_Tanks\\"** on the computer.
  --------------------------------------------
  --------------------------------------------
-
 
 ### Mods Description:
 * [AntiSpam][] - 
@@ -35,7 +30,8 @@ Driftkinks Mod List:
 * [StatPaints][] -
 * [UT_Announcer][] - 
 * [VoiceOverrider][] - 
-
+ --------------------------------------------
+ --------------------------------------------
 [AntiSpam]:./AntiSpam/
 [BattleTimeFlag]:./BattleTimeFlag/ 
 [BorderColor]:./BorderColor/ 
@@ -56,3 +52,10 @@ Driftkinks Mod List:
 [StatPaints]:./StatPaints/
 [UT_Announcer]:./UT_Announcer/ 
 [VoiceOverrider]:./VoiceOverrider/ 
+
+--------------------------------------------
+--------------------------------------------
+### Python Part
+[**PyCharm**](https://www.jetbrains.com/pycharm/): Python IDE for Professional Developers by JetBrains 
+ --------------------------------------------
+ --------------------------------------------
