@@ -16,17 +16,17 @@ Driftkinks Mod List:
 * [BattleTimeFlag][] - 
 * [BorderColor][] - 
 * [CamoSelector][] - 
-* [ChatMessages][] - 
+* [ChatMessages][] - Enable or Disable Chst and Reduce Number of lines.
 * [DispersionCircle][] - 
 * [DKSupport][] - 
 * [ExtendedZoom][] - 
 * [HangarScreenshots][] - 
 * [IngameGuiTextTweaker][] - 
 * [LogSwapper][] - 
-* [PlayersPanelHP][] - 
+* [PlayersPanelHP][] - HP in Players List(Players Panel)
 * [RadialMenu][] - 
 * [SafeShoot][] - 
-* [Server][] - 
+* [Server][] - Auto-Login and SaveLast Server.
 * [SoundEventInjector][] - 
 * [Spotted][] - 
 * [StatPaints][] -
