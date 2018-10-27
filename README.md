@@ -32,6 +32,7 @@ Driftkinks Mod List:
 * [StatPaints][] -
 * [UT_Announcer][] - 
 * [VoiceOverrider][] - 
+* [RepairExtended][] - 
 
 [AntiSpam]:./AntiSpam/
 [BattleTimeFlag]:./BattleTimeFlag/ 
@@ -52,7 +53,8 @@ Driftkinks Mod List:
 [Spotted]:./Spotted/
 [StatPaints]:./StatPaints/
 [UT_Announcer]:./UT_Announcer/ 
-[VoiceOverrider]:./VoiceOverrider/ 
+[VoiceOverrider]:./VoiceOverrider/
+[RepairExtended]:./RepairExtended/ 
 
 --------------------------------------------
 --------------------------------------------
