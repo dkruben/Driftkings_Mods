@@ -3,4 +3,4 @@
     'TO DO'
 
 #### Screenshots:
-![ScreenShot](./contentlog)
+![ScreenShot](./contentlog.jpg)
