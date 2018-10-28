@@ -15,7 +15,7 @@ Driftkinks Mod List:
 * [AntiSpam][] - 
 * [BattleTimeFlag][] - 
 * [BorderColor][] - 
-* [CamoSelector][] - 
+* [CamoSelector][] - Auto install cammo in your tanks.
 * [ChatMessages][] - Enable or Disable Chst and Reduce Number of lines.
 * [DispersionCircle][] - 
 * [DKSupport][] - 
