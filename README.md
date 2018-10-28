@@ -12,27 +12,27 @@ Driftkinks Mod List:
  --------------------------------------------
 
 ### Mods Description:
-* [AntiSpam][] - 
+* [AntiSpam][] - Removes spam from the python.log file.
 * [BattleTimeFlag][] - 
-* [BorderColor][] - 
+* [BorderColor][] - Map borders with another color.
 * [CamoSelector][] - Auto install cammo in your tanks.
 * [ChatMessages][] - Enable or Disable Chat and Reduce Number of lines.
-* [DispersionCircle][] - 
+* [DispersionCircle][] - Required to load sound events.
 * [DKSupport][] - 
 * [ExtendedZoom][] - 
 * [HangarScreenshots][] - 
 * [IngameGuiTextTweaker][] - 
-* [LogSwapper][] - 
+* [LogSwapper][] - Inverted Damage Panel Style (XVM) Damage dealt on top, damage taken down.
 * [PlayersPanelHP][] - HP in Players List(Players Panel)
-* [RadialMenu][] - 
+* [RadialMenu][] - Radial menu change, can be manually set to your liking. Includes 2 versions.
 * [SafeShoot][] - 
 * [Server][] - Auto-Login and SaveLast Server.
 * [SoundEventInjector][] - 
 * [Spotted][] - 
-* [StatPaints][] -
-* [UT_Announcer][] - 
+* [StatPaints][] - Paint the statistics on the player's tank.
+* [UT_Announcer][] - Announcer of all the deaths made by you or by the team, as well as the medals obtained in a platoon.
 * [VoiceOverrider][] - 
-* [RepairExtended][] - 
+* [RepairExtended][] - Recover quickly, all modules and crew.
 
 [AntiSpam]:./AntiSpam/
 [BattleTimeFlag]:./BattleTimeFlag/ 
