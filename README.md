@@ -13,6 +13,7 @@ Driftkinks Mod List:
 
 ### Mods Description:
 * [AntiSpam][] - Removes spam from the python.log file.
+* [AutoAimOptimize][] - AutoAimOptimize get targets behind obstacles.
 * [BattleTimeFlag][] - 
 * [BorderColor][] - Map borders with another color.
 * [CamoSelector][] - Auto install cammo in your tanks.
@@ -35,6 +36,7 @@ Driftkinks Mod List:
 * [RepairExtended][] - Recover quickly, all modules and crew.
 
 [AntiSpam]:./AntiSpam/
+[AutoAimOptimize]:./AutoAimOptimize/
 [BattleTimeFlag]:./BattleTimeFlag/ 
 [BorderColor]:./BorderColor/ 
 [CamoSelector]:./CamoSelector/ 
