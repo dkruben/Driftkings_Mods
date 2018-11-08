@@ -1,14 +1,11 @@
 ---------------------------------------------
 Driftkinks Mod List:
 ---------------------------------------------
----------------------------------------------
  - Suport @mail 'driftkingsmods@gmail.com'
- --------------------------------------------
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
 2. Download **zip** - archive with the mod and extract its contents to a folder **"World_of_Tanks\\"** on the computer.
- --------------------------------------------
  --------------------------------------------
 
 ### Mods Description:
@@ -59,8 +56,6 @@ Driftkinks Mod List:
 [RepairExtended]:./RepairExtended/ 
 
 --------------------------------------------
---------------------------------------------
 ### Python Part
 [**PyCharm**](https://www.jetbrains.com/pycharm/): Python IDE for Professional Developers by JetBrains 
---------------------------------------------
 --------------------------------------------
