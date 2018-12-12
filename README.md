@@ -13,7 +13,6 @@ Driftkinks Mod List:
 * [AutoAimOptimize][] - AutoAimOptimize get targets behind obstacles.
 * [BattleTimeFlag][] - 
 * [BorderColor][] - Map borders with another color.
-* [CamoSelector][] - Auto install cammo in your tanks.
 * [ChatMessages][] - Enable or Disable Chat and Reduce Number of lines.
 * [DispersionCircle][] - Reduce/replace gun circle.
 * [DKSupport][] - 
@@ -22,7 +21,7 @@ Driftkinks Mod List:
 * [IngameGuiTextTweaker][] - 
 * [LogSwapper][] - Inverted Damage Panel Style (XVM) Damage dealt on top, damage taken down.
 * [PlayersPanelHP][] - HP in Players List(Players Panel)
-* [RadialMenu][] - Radial menu change, can be manually set to your liking. Includes 2 versions.
+* [RadialMenu][] - Radial menu change, can be manually set to your liking. Includes 2 versions (EN & RU).
 * [SafeShoot][] - 
 * [Server][] - Auto-Login and SaveLast Server.
 * [SoundEventInjector][] - 
@@ -36,7 +35,6 @@ Driftkinks Mod List:
 [AutoAimOptimize]:./AutoAimOptimize/
 [BattleTimeFlag]:./BattleTimeFlag/ 
 [BorderColor]:./BorderColor/ 
-[CamoSelector]:./CamoSelector/ 
 [ChatMessages]:./ChatMessages/ 
 [DispersionCircle]:./DispersionCircle/ 
 [DKSupport]:./DKSupport/
