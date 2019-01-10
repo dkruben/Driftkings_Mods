@@ -1,4 +1,4 @@
----------------------------------------------
+﻿---------------------------------------------
 Driftkinks Mod List:
 ---------------------------------------------
  - Suport @mail 'driftkingsmods@gmail.com'
@@ -11,6 +11,7 @@ Driftkinks Mod List:
 ### Mods Description:
 * [AntiSpam][] - Removes spam from the python.log file.
 * [AutoAimOptimize][] - AutoAimOptimize get targets behind obstacles.
+* [Auto-Equip][] - Return your equipaments.
 * [BattleTimeFlag][] - 
 * [BorderColor][] - Map borders with another color.
 * [ChatMessages][] - Enable or Disable Chat and Reduce Number of lines.
@@ -33,6 +34,7 @@ Driftkinks Mod List:
 
 [AntiSpam]:./AntiSpam/
 [AutoAimOptimize]:./AutoAimOptimize/
+[Auto-Equip]:./Auto-Equip/
 [BattleTimeFlag]:./BattleTimeFlag/ 
 [BorderColor]:./BorderColor/ 
 [ChatMessages]:./ChatMessages/ 
