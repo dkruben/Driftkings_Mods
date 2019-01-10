@@ -1,5 +1,5 @@
 ﻿---------------------------------------------
-Driftkinks Mod List:
+**Driftkinks Mod List:**
 ---------------------------------------------
  - Suport @mail 'driftkingsmods@gmail.com'
  --------------------------------------------
@@ -16,17 +16,17 @@ Driftkinks Mod List:
 * [BorderColor][] - Map borders with another color.
 * [ChatMessages][] - Enable or Disable Chat and Reduce Number of lines.
 * [DispersionCircle][] - Reduce/replace gun circle.
-* [DKSupport][] - 
+~~* [DKSupport][] -~~ 
 * [ExtendedZoom][] - 
 * [HangarScreenshots][] - 
 * [IngameGuiTextTweaker][] - 
 * [LogSwapper][] - Inverted Damage Panel Style (XVM) Damage dealt on top, damage taken down.
 * [PlayersPanelHP][] - HP in Players List(Players Panel)
 * [RadialMenu][] - Radial menu change, can be manually set to your liking. Includes 2 versions (EN & RU).
-* [SafeShoot][] - 
+~~* [SafeShoot][] -~~ 
 * [Server][] - Auto-Login and SaveLast Server.
 * [SoundEventInjector][] - 
-* [Spotted][] - 
+~~* [Spotted][] -~~ 
 * [StatPaints][] - Paint the statistics on the player's tank.
 * [UT_Announcer][] - Announcer of all the deaths made by you or by the team, as well as the medals obtained in a platoon.
 * [VoiceOverrider][] - 
@@ -35,27 +35,27 @@ Driftkinks Mod List:
 [AntiSpam]:./AntiSpam/
 [AutoAimOptimize]:./AutoAimOptimize/
 [Auto-Equip]:./Auto-Equip/
-[BattleTimeFlag]:./BattleTimeFlag/ 
-[BorderColor]:./BorderColor/ 
-[ChatMessages]:./ChatMessages/ 
-[DispersionCircle]:./DispersionCircle/ 
+[BattleTimeFlag]:./BattleTimeFlag/
+[BorderColor]:./BorderColor/
+[ChatMessages]:./ChatMessages/
+[DispersionCircle]:./DispersionCircle/
 [DKSupport]:./DKSupport/
-[ExtendedZoom]:./ExtendedZoom/ 
-[HangarScreenshots]:./HangarScreenshots/ 
-[IngameGuiTextTweaker]:./IngameGuiTextTweaker/ 
+[ExtendedZoom]:./ExtendedZoom/
+[HangarScreenshots]:./HangarScreenshots/
+[IngameGuiTextTweaker]:./IngameGuiTextTweaker/
 [LogSwapper]:./LogSwapper/
 [PlayersPanelHP]:./PlayersPanelHP/
-[RadialMenu]:./RadialMenu/ 
+[RadialMenu]:./RadialMenu/
 [SafeShoot]:./SafeShoot/
 [Server]:./Server/
-[SoundEventInjector]:./SoundEventInjector/ 
+[SoundEventInjector]:./SoundEventInjector/
 [Spotted]:./Spotted/
 [StatPaints]:./StatPaints/
-[UT_Announcer]:./UT_Announcer/ 
+[UT_Announcer]:./UT_Announcer/
 [VoiceOverrider]:./VoiceOverrider/
-[RepairExtended]:./RepairExtended/ 
+[RepairExtended]:./RepairExtended/
 
 --------------------------------------------
 ### Python Part
-[**PyCharm**](https://www.jetbrains.com/pycharm/): Python IDE for Professional Developers by JetBrains 
+[PyCharm](https://www.jetbrains.com/pycharm/): Python IDE for Professional Developers by JetBrains 
 --------------------------------------------
