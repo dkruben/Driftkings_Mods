@@ -15,7 +15,6 @@
 * [BorderColor][] - Map borders with another color.
 * [ChatMessages][] - Enable or Disable Chat and Reduce Number of lines.
 * [DispersionCircle][] - Reduce/replace gun circle.
-~~* [DKSupport][] -~~ 
 * [ExtendedZoom][] - 
 * [HangarScreenshots][] - 
 * [IngameGuiTextTweaker][] - 
@@ -35,7 +34,6 @@
 [BorderColor]:./BorderColor/
 [ChatMessages]:./ChatMessages/
 [DispersionCircle]:./DispersionCircle/
-[DKSupport]:./DKSupport/
 [ExtendedZoom]:./ExtendedZoom/
 [HangarScreenshots]:./HangarScreenshots/
 [IngameGuiTextTweaker]:./IngameGuiTextTweaker/
