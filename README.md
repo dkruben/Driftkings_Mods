@@ -12,6 +12,7 @@
 * [AntiSpam][] - Removes spam from the python.log file.
 * [AutoAimOptimize][] - AutoAimOptimize get targets behind obstacles.
 * [Auto-Equip][] - Return your equipaments.
+* [BattleEfficiency][] - Battle Efficiency (Calculator in Battle)
 * [BorderColor][] - Map borders with another color.
 * [ChatMessages][] - Enable or Disable Chat and Reduce Number of lines.
 * [DispersionCircle][] - Reduce/replace gun circle.
@@ -30,6 +31,7 @@
 
 [AntiSpam]:./AntiSpam/
 [AutoAimOptimize]:./AutoAimOptimize/
+[BattleEfficiency]: ./BattleEfficiency
 [Auto-Equip]:./Auto-Equip/
 [BorderColor]:./BorderColor/
 [ChatMessages]:./ChatMessages/
