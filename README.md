@@ -15,11 +15,11 @@
 * [BattleEfficiency][] - Battle Efficiency (Calculator in Battle)
 * [BattleMessages][] - Battle Messages (Spotted, Team Damage, ReloadTime and Arty damage)
 * [BorderColor][] - Map borders with another color.
-* [ChatMessages][] - Enable or Disable Chat and Reduce Number of lines.
+* [ChatMessagesController][] - Enable or Disable Chat and Reduce Number of lines.
 * [DispersionCircle][] - Reduce/replace gun circle.
 * [ExtendedZoom][] - 
 * [HangarScreenshots][] - 
-* [IngameGuiTextTweaker][] - 
+* [IngameTextTweaks][] - 
 * [LogSwapper][] - Inverted Damage Panel Style (XVM) Damage dealt on top, damage taken down.
 * [PlayersPanelHP][] - HP in Players List(Players Panel)
 * [RadialMenu][] - Radial menu change, can be manually set to your liking. Includes 2 versions (EN & RU).
@@ -36,11 +36,11 @@
 [BattleEfficiency]: ./BattleEfficiency/
 [BattleMessages]: ./BattleMessages/
 [BorderColor]:./BorderColor/
-[ChatMessages]:./ChatMessages/
+[ChatMessagesController]:./ChatMessages/
 [DispersionCircle]:./DispersionCircle/
 [ExtendedZoom]:./ExtendedZoom/
 [HangarScreenshots]:./HangarScreenshots/
-[IngameGuiTextTweaker]:./IngameGuiTextTweaker/
+[IngameTextTweaks]:./IngameTextTweaks/
 [LogSwapper]:./LogSwapper/
 [PlayersPanelHP]:./PlayersPanelHP/
 [RadialMenu]:./RadialMenu/

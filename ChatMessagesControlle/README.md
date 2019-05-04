@@ -1,4 +1,4 @@
-# ChatMensages
+# ChatMessagesController
 #### Mod description:
     'TO DO'
 
