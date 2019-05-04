@@ -13,6 +13,7 @@
 * [AutoAimOptimize][] - AutoAimOptimize get targets behind obstacles.
 * [Auto-Equip][] - Return your equipaments.
 * [BattleEfficiency][] - Battle Efficiency (Calculator in Battle)
+* [BattleMessages][] - Battle Messages (Spotted, Team Damage, ReloadTime and Arty damage)
 * [BorderColor][] - Map borders with another color.
 * [ChatMessages][] - Enable or Disable Chat and Reduce Number of lines.
 * [DispersionCircle][] - Reduce/replace gun circle.
@@ -31,8 +32,9 @@
 
 [AntiSpam]:./AntiSpam/
 [AutoAimOptimize]:./AutoAimOptimize/
-[BattleEfficiency]: ./BattleEfficiency
 [Auto-Equip]:./Auto-Equip/
+[BattleEfficiency]: ./BattleEfficiency/
+[BattleMessages]: ./BattleMessages/
 [BorderColor]:./BorderColor/
 [ChatMessages]:./ChatMessages/
 [DispersionCircle]:./DispersionCircle/
