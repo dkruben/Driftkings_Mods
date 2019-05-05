@@ -42,15 +42,15 @@
 ~~[HangarScreenshots]:./HangarScreenshots/
 ~~[IngameTextTweaks]:./IngameTextTweaks/
 [LogSwapper]:./LogSwapper/
-~~[PlayersPanelHP]:./PlayersPanelHP/~~
-~~[RadialMenu]:./RadialMenu/~~
-~~[SafeShoot]:./SafeShoot/~~
-~~[Server]:./Server/~~
+~~[PlayersPanelHP]:./PlayersPanelHP/
+~~[RadialMenu]:./RadialMenu/
+~~[SafeShoot]:./SafeShoot/
+~~[Server]:./Server/
 ~~[SoundEventInjector]:./SoundEventInjector/
-~~[StatPaints]:./StatPaints/~~
-~~[UT_Announcer]:./UT_Announcer/~~
-~~[VoiceOverrider]:./VoiceOverrider/~~
-~~[RepairExtended]:./RepairExtended/~~
+~~[StatPaints]:./StatPaints/
+~~[UT_Announcer]:./UT_Announcer/
+~~[VoiceOverrider]:./VoiceOverrider/
+~~[RepairExtended]:./RepairExtended/
 
 --------------------------------------------
 ### Python Part
