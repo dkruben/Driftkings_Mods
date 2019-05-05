@@ -3,4 +3,5 @@
     'Efficiency Calculator in battle and at the end of us, battle results.'
 
 #### Screenshots:
-![BattleEfficiency](./BattleEfficiency.jpg)
+![BattleEfficiency](./BattleEfficiency_B.jpg)
+![BattleEfficiency](./BattleEfficiency_H.jpg)
