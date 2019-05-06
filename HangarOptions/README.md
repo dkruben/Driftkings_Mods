@@ -1,4 +1,4 @@
-# Auto-Equip
+# HangarOptions
 #### Mod description:
     'TO DO'
 
