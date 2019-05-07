@@ -5,4 +5,6 @@
 	Quick configuration through the hangar interface.'
 
 #### Screenshots:
-![ScreenShot](./aequip.jpg)
+![ScreenShot](./HangarOptions_Auto_Equip.jpg)
+![ScreenShot](./HangarOptions_Auto_Login.jpg)
+![ScreenShot](./)
