@@ -1,6 +1,6 @@
-# UT_announcer
+# UT_Announcer
 #### Mod description:
     'TO DO'
 
 #### Screenshots:
-![ScreenShot](./UT_announcer.jpg)
+![ScreenShot](./UT_Announcer.jpg)

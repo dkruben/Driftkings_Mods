@@ -3,4 +3,4 @@
     'TO DO'
 
 #### Screenshots:
-![ScreenShot](./shot_001.jpg)
+![ScreenShot](./PlayersPanelHP.jpg)
