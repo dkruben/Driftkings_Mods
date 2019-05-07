@@ -4,4 +4,6 @@
 	in reload, hit by and exists/suffers damage of allies.'
 
 #### Screenshots:
-![BattleMessages](./BattleMessages_D.jpg)
+![BattleMessages](./BattleMessages_Team_Dam.jpg)
+![BattleMessages](./BattleMessages_Spotted.jpg)
+![BattleMessages](./BattleMessages_Arty_Dam.png)
