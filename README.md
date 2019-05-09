@@ -12,7 +12,7 @@
 ### Mods Description:
 * [AntiSpam][] - Removes spam from the python.log file.
 * [AutoAimOptimize][] - AutoAimOptimize get targets behind obstacles.
-* [HangarOptions][] - 'It's a mod, which removes the advertisements in the hangar, adds auto-login and module assembly.'
+* [HangarOptions][] - It's a mod, which removes the advertisements in the hangar, adds auto-login and module assembly.
 * [BattleEfficiency][] - Battle Efficiency (Calculator in Battle)
 * [BattleMessages][] - Battle Messages (Spotted, Team Damage, ReloadTime and Arty damage)
 * [BorderColor][] - Map borders with another color.
@@ -32,7 +32,7 @@
 [BorderColor]:./BorderColor/
 [ChatMessagesController]:./ChatMessagesController/
 [DispersionCircle]:./DispersionCircle/
-[ExtendedZoom]:./ExtendedZoom/
+~~[ExtendedZoom]:./ExtendedZoom/~~
 [LogSwapper]:./LogSwapper/
 [PlayersPanelHP]:./PlayersPanelHP/
 [RepairExtended]:./RepairExtended/
