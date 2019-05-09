@@ -32,7 +32,6 @@
 [BorderColor]:./BorderColor/
 [ChatMessagesController]:./ChatMessagesController/
 [DispersionCircle]:./DispersionCircle/
-~~[ExtendedZoom]:./ExtendedZoom/~~
 [LogSwapper]:./LogSwapper/
 [PlayersPanelHP]:./PlayersPanelHP/
 [RepairExtended]:./RepairExtended/
