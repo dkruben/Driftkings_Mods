@@ -21,7 +21,7 @@
 * [LogSwapper][] - Inverted Damage Panel Style (XVM) Damage dealt on top, damage taken down.
 * [PlayersPanelHP][] - HP in Players List(Players Panel)
 * [RepairExtended][] - Recover quickly, all modules and crew.
-~~* [UT_Announcer][] - Announcer of all the deaths made by you or by the team, as well as the medals obtained in a platoon.~~
+* [UT_Announcer][] - Announcer of all the deaths made by you or by the team, as well as the medals obtained in a platoon.
 
 
 [AntiSpam]:./AntiSpam/
@@ -36,7 +36,7 @@
 [LogSwapper]:./LogSwapper/
 [PlayersPanelHP]:./PlayersPanelHP/
 [RepairExtended]:./RepairExtended/
-~~[UT_Announcer]:./UT_Announcer/~~
+[UT_Announcer]:./UT_Announcer/
 
 --------------------------------------------
 Python Part:
