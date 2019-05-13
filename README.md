@@ -2,7 +2,7 @@
 **Driftkinks Mod List:**
 ---------------------------------------------
  - Suport @mail 'driftkingsmods@gmail.com'
- - WOT 1.5.0.0
+ - WOT 1.5.0.1
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
@@ -14,7 +14,7 @@
 * [AutoAimOptimize][] - AutoAimOptimize get targets behind obstacles.
 * [HangarOptions][] - It's a mod, which removes the advertisements in the hangar, adds auto-login and module assembly.
 * [BattleEfficiency][] - Battle Efficiency (Calculator in Battle)
-* [BattleMessages][] - Battle Messages (Spotted, Team Damage, ReloadTime and Arty damage)
+* [BattleMessages][] - Battle Messages (Spotted, Team Damage, ReloadTime, Arty damage and TargetFocus)
 * [BorderColor][] - Map borders with another color.
 * [ChatMessagesController][] - Enable or Disable Chat and Reduce Number of lines.
 * [DispersionCircle][] - Reduce/replace gun circle.
