@@ -2,7 +2,7 @@
 **Driftkinks Mod List:**
 ---------------------------------------------
  - Suport @mail 'driftkingsmods@gmail.com'
- - WOT 1.5.0.2
+ - WOT 1.5.0.3
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
