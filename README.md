@@ -2,7 +2,7 @@
 **Driftkinks Mod List:**
 ---------------------------------------------
  - Suport @mail 'driftkingsmods@gmail.com'
- - WOT 1.5.0.1
+ - WOT 1.5.1.x
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
@@ -22,6 +22,7 @@
 * [PlayersPanelHP][] - HP in Players List(Players Panel)
 * [RepairExtended][] - Recover quickly, all modules and crew.
 * [SafeShot][] - Block Team Damage
+* [SystemColor][] - Change colors in killLog and In tanks contour outline
 * [UT_Announcer][] - Announcer of all the deaths made by you or by the team, as well as the medals obtained in a platoon.
 
 
@@ -37,6 +38,7 @@
 [PlayersPanelHP]:./PlayersPanelHP/
 [RepairExtended]:./RepairExtended/
 [SafeShot]: ./SafeShot/
+[SystemColor]: ./SystemColor/
 [UT_Announcer]:./UT_Announcer/
 
 --------------------------------------------
