@@ -2,7 +2,7 @@
 **Driftkinks Mod List:**
 ---------------------------------------------
  - Suport @mail 'driftkingsmods@gmail.com'
- - WOT 1.5.1.x.x
+ - WOT 1.5.1.1
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
@@ -21,7 +21,7 @@
 * [LogSwapper][] - Inverted Damage Panel Style (XVM) Damage dealt on top, damage taken down.
 * [PlayersPanelHP][] - HP in Players List(Players Panel)
 * [RepairExtended][] - Recover quickly, all modules and crew.
-* [SafeShot][] - Block Team Damage
+* [SaveShootLite][] - Block Team Damage
 * [SystemColor][] - Change colors in killLog and In tanks contour outline
 * [UT_Announcer][] - Announcer of all the deaths made by you or by the team, as well as the medals obtained in a platoon.
 
@@ -37,7 +37,7 @@
 [LogSwapper]:./LogSwapper/
 [PlayersPanelHP]:./PlayersPanelHP/
 [RepairExtended]:./RepairExtended/
-[SafeShot]: ./SafeShot/
+[SaveShootLite]: ./SaveShootLite/
 [SystemColor]: ./SystemColor/
 [UT_Announcer]:./UT_Announcer/
 
