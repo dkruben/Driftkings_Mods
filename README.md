@@ -2,7 +2,7 @@
 **Driftkinks Mod List:**
 ---------------------------------------------
  - Suport @mail 'driftkingsmods@gmail.com'
- - WOT 1.6.0.3
+ - WOT 1.6.0.4
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
@@ -10,7 +10,6 @@
  --------------------------------------------
 
 ### Mods Description:
-* [AntiSpam][] - Removes spam from the python.log file.
 * [AutoAimOptimize][] - AutoAimOptimize get targets behind obstacles.
 * [HangarOptions][] - It's a mod, which removes the advertisements in the hangar, adds, auto-login and others.
 * [BattleEfficiency][] - Battle Efficiency (Calculator in Battle)
@@ -26,7 +25,6 @@
 * [UT_Announcer][] - Announcer of all the deaths made by you or by the team, as well as the medals obtained in a platoon.
 
 
-[AntiSpam]:./AntiSpam/
 [AutoAimOptimize]:./AutoAimOptimize/
 [HangarOptions]:./HangarOptions/
 [BattleEfficiency]: ./BattleEfficiency/
