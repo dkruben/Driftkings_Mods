@@ -1,8 +1,9 @@
 ﻿---------------------------------------------
 **Driftkinks Mod List:**
 ---------------------------------------------
- - Suport @mail 'driftkingsmods@gmail.com'
- - WOT 1.6.0.4
+ - Support @mail 'driftkingsmods@gmail.com'
+ - Patreon: https://www.patreon.com/driftkings_mods/
+ - WOT 1.6.1.0
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
@@ -21,7 +22,7 @@
 * [DispersionCircle][] - Reduce/replace gun circle.
 * [PlayersPanelHP][] - HP in Players List(Players Panel)
 * [RepairExtended][] - Recover quickly, all modules and crew.
-* [SafeShot][] - Block Team Damage.
+* [SaveShootLite][] - Block Team Damage.
 * [UT_Announcer][] - Announcer of all the deaths made by you or by the team, as well as the medals obtained in a platoon.
 
 
@@ -34,7 +35,7 @@
 [DispersionCircle]:./DispersionCircle/
 [PlayersPanelHP]:./PlayersPanelHP/
 [RepairExtended]:./RepairExtended/
-[SafeShot]: ./SafeShot/
+[SaveShootLite]: ./SaveShootLite/
 [UT_Announcer]:./UT_Announcer/
 
 --------------------------------------------
