@@ -3,7 +3,7 @@
 ---------------------------------------------
  - Support @mail 'driftkingsmods@gmail.com'
  - Patreon: https://www.patreon.com/driftkings_mods/
- - WOT 1.6.1.3
+ - WOT 1.7.0.0
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
@@ -11,32 +11,40 @@
  --------------------------------------------
 
 ### Mods Description:
+* [ArtySplash][] - Scope of the alleged propagation of HEI and stun (for HE shells).
 * [AutoAimOptimize][] - AutoAimOptimize get targets behind obstacles.
-* [HangarOptions][] - It's a mod, which removes the advertisements in the hangar, adds, auto-login and others.
-* [BattleEfficiency][] - Battle Efficiency (Calculator in Battle)
-* [BattleOptions][] - Remove trajectoryView, siegeIndicator, questProgress, helpScreen, postmortemTips,
-  extended sixthSense Duration Time,  add option permanentMinimapDeath and showDeathNames,
-   Inverted Damage Panel Style (XVM) Damage dealt on top, damage taken down, and Map borders with another color.
+* [BattleEfficiency][] - Battle Efficiency (Calculator in Battle and in game ended)
+* [BattleOptions][] - Remove trajectoryView, siegeIndicator, questProgress, helpScreen, postmortemTips, extended SixthSense Duration Time, and Map borders with another color.
 * [BattleMessages][] - Battle Messages (Spotted, Team Damage, ReloadTime, Arty damage and TargetFocus), and Reduce Number of lines in chat.
 * [ChatMessagesController][] - Enable or Disable Chat in battle.
-* [DispersionCircle][] - Reduce/replace gun circle.
+* [CrewExtended][] - Crew leveling, shows the number of battles and experience until the next studied crew perk.
+* [DispersionCircle][] - Replacing the circle of information with a circle of scatter, or adding a second.
+* [HangarOptions][] - It's a mod, which removes the advertisements in the hangar, adds, auto-login and others.
+* [LogsSwapper][] - Inverted Damage Panel Style (XVM) Damage dealt on top, damage taken down.
+* [MinimapPlugins][] - Show dead names and tanks in minimap.
 * [PlayersPanelHP][] - HP in Players List(Players Panel)
-* [RepairExtended][] - Recover quickly, all modules and crew.
-* [SaveShootLite][] - Block Team Damage.
+* [RepairExtended][] - "FastRepair" Quick crew repair and treatment.
+* [SafeShot][] - Block Team Damage.
+* [ToolTips][] - ToolTips (Remove or added some options in batlle and hangar)
 * [UT_Announcer][] - Announcer of all the deaths made by you or by the team, as well as the medals obtained in a platoon.
 
 
-[AutoAimOptimize]:./AutoAimOptimize/
-[HangarOptions]:./HangarOptions/
+[ArtySplash]: ./ArtySplash/
+[AutoAimOptimize]: ./AutoAimOptimize/
 [BattleEfficiency]: ./BattleEfficiency/
 [BattleOptions]: ./BattleOptions/
 [BattleMessages]: ./BattleMessages/
-[ChatMessagesController]:./ChatMessagesController/
-[DispersionCircle]:./DispersionCircle/
-[PlayersPanelHP]:./PlayersPanelHP/
-[RepairExtended]:./RepairExtended/
-[SaveShootLite]: ./SaveShootLite/
-[UT_Announcer]:./UT_Announcer/
+[ChatMessagesController]: ./ChatMessagesController/
+[CrewExtended]: ./CrewExtended/
+[DispersionCircle]: ./DispersionCircle/
+[HangarOptions]: ./HangarOptions/
+[LogsSwapper]: ./LogsSwapper/
+[MinimapPlugins]: ./MinimapPlugins/
+[PlayersPanelHP]: ./PlayersPanelHP/
+[RepairExtended]: ./RepairExtended/
+[SafeShot]: ./SafeShot/
+[ToolTips]: ./ToolTips/
+[UT_Announcer]: ./UT_Announcer/
 
 --------------------------------------------
 Python Part:
