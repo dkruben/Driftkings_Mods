@@ -3,7 +3,7 @@
 ---------------------------------------------
  - Support @mail 'driftkingsmods@gmail.com'
  - Patreon: https://www.patreon.com/driftkings_mods/
- - WOT 1.7.0.0
+ - WOT 1.8.0.0
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
@@ -26,6 +26,7 @@
 * [RepairExtended][] - "FastRepair" Quick crew repair and treatment.
 * [SafeShot][] - Block Team Damage.
 * [ToolTips][] - ToolTips (Remove or added some options in batlle and hangar)
+* [TankCarousel][] - TankCarousel some configs for carousel
 * [UT_Announcer][] - Announcer of all the deaths made by you or by the team, as well as the medals obtained in a platoon.
 
 
@@ -44,6 +45,7 @@
 [RepairExtended]: ./RepairExtended/
 [SafeShot]: ./SafeShot/
 [ToolTips]: ./ToolTips/
+[TankCarousel]: ./TankCarousel/
 [UT_Announcer]: ./UT_Announcer/
 
 --------------------------------------------
