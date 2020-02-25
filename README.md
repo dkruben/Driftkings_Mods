@@ -24,7 +24,7 @@
 * [MinimapPlugins][] - Show dead names and tanks in minimap.
 * [PlayersPanelHP][] - HP in Players List(Players Panel)
 * [RepairExtended][] - "FastRepair" Quick crew repair and treatment.
-* [SafeShot][] - Block Team Damage.
+* [SaveShootLite][] - Block Team Damage.
 * [ToolTips][] - ToolTips (Remove or added some options in batlle and hangar)
 * [TankCarousel][] - TankCarousel some configs for carousel
 * [UT_Announcer][] - Announcer of all the deaths made by you or by the team, as well as the medals obtained in a platoon.
@@ -43,7 +43,7 @@
 [MinimapPlugins]: ./MinimapPlugins/
 [PlayersPanelHP]: ./PlayersPanelHP/
 [RepairExtended]: ./RepairExtended/
-[SafeShot]: ./SafeShot/
+[SaveShootLite]: ./SaveShootLite/
 [ToolTips]: ./ToolTips/
 [TankCarousel]: ./TankCarousel/
 [UT_Announcer]: ./UT_Announcer/
