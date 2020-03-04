@@ -1,5 +1,5 @@
 ﻿---------------------------------------------
-**Driftkinks Mod List:**
+**Driftkink's Mod List:**
 ---------------------------------------------
  - Support @mail 'driftkingsmods@gmail.com'
  - Patreon: https://www.patreon.com/driftkings_mods/
@@ -25,7 +25,7 @@
 * [PlayersPanelHP][] - HP in Players List(Players Panel)
 * [RepairExtended][] - "FastRepair" Quick crew repair and treatment.
 * [SaveShootLite][] - Block Team Damage.
-* [ToolTips][] - ToolTips (Remove or added some options in batlle and hangar)
+
 * [TankCarousel][] - TankCarousel some configs for carousel
 * [UT_Announcer][] - Announcer of all the deaths made by you or by the team, as well as the medals obtained in a platoon.
 
@@ -44,7 +44,7 @@
 [PlayersPanelHP]: ./PlayersPanelHP/
 [RepairExtended]: ./RepairExtended/
 [SaveShootLite]: ./SaveShootLite/
-[ToolTips]: ./ToolTips/
+
 [TankCarousel]: ./TankCarousel/
 [UT_Announcer]: ./UT_Announcer/
 
