@@ -4,7 +4,7 @@
  - @2020
  - Support @mail 'driftkingsmods@gmail.com'
  - Patreon: https://www.patreon.com/driftkings_mods/
- - WOT 1.8.0.0
+ - WOT 1.8.0.2
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
@@ -12,7 +12,7 @@
  --------------------------------------------
 
 ### Mods Description:
-* [ArtySplash][] - Scope of the alleged propagation of HEI and stun (for HE shells).
+* [ArtySplash][] - Scope of the alleged propagation of HE and stun (for HE shells).
 * [AutoAimOptimize][] - AutoAimOptimize get targets behind obstacles.
 * [BattleEfficiency][] - Battle Efficiency (Calculator in Battle and in game ended)
 * [BattleOptions][] - Remove trajectoryView, siegeIndicator, questProgress, helpScreen, postmortemTips, extended SixthSense Duration Time, and Map borders with another color.
@@ -23,6 +23,7 @@
 * [DispersionCircle][] - Replacing the circle of information with a circle of scatter, or adding a second.
 * [HangarOptions][] - It's a mod, which removes the advertisements in the hangar, adds, auto-login and others.
 * [LogsSwapper][] - Inverted Damage Panel Style (XVM) Damage dealt on top, damage taken down.
+* [MarksOnGunExtended][] - "Marks", the progress of marks on the weapon in battle and showing the boundaries of the total damage to take a mark in the statistics of the tank(author: spoter, re-build: Driftkings).
 * [MinimapPlugins][] - Show dead names and tanks in minimap.
 * [PlayersPanelHP][] - HP in Players List(Players Panel)
 * [RepairExtended][] - Quick crew repair and treatment.
@@ -44,6 +45,7 @@
 [DispersionCircle]: ./DispersionCircle/
 [HangarOptions]: ./HangarOptions/
 [LogsSwapper]: ./LogsSwapper/
+[MarksOnGunExtended]:./MarksOnGunExtended/
 [MinimapPlugins]: ./MinimapPlugins/
 [PlayersPanelHP]: ./PlayersPanelHP/
 [RepairExtended]: ./RepairExtended/
