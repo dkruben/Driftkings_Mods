@@ -1,6 +1,6 @@
 # ChatMessagesController
 #### Mod description:
-    'TO DO'
+    'Enabled/Disable chat in game'
 
 #### Screenshots:
 ![ScreenShot](./shot_002.jpg)
