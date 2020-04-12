@@ -32,6 +32,7 @@
 * [SpottedExtendedLight][] - Messages about the primary exposure and damage over exposure over the minimap + sound.
 * [TankCarousel][] - TankCarousel some configs for carousel
 * [UT_Announcer][] - Announcer of all the deaths made by you or by the team, as well as the medals obtained in a platoon.
+* [VehicleExpExtended][] - Display, experience for searching vehicles/modules and campaign missions.
 
 
 [ArtySplash]: ./ArtySplash/
@@ -54,6 +55,7 @@
 [SpottedExtendedLight]:./SpottedExtendedLight/
 [TankCarousel]: ./TankCarousel/
 [UT_Announcer]: ./UT_Announcer/
+[VehicleExpExtended]: ./VehicleExpExtended/
 
 --------------------------------------------
 Python Part:
