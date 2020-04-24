@@ -4,7 +4,7 @@
  - @2020
  - Support @mail 'driftkingsmods@gmail.com'
  - Patreon: https://www.patreon.com/driftkings_mods/
- - WOT 1.9.0.0
+ - WOT 1.9.0.1
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
@@ -31,7 +31,6 @@
 * [ServerTurretExtended][] - Auto-speed for wheeled vehicles, completes the tank turret in server coordinates, automatically activates the “Stop for Shot” when braking the tank, increases the accuracy of fire.
 * [SpottedExtendedLight][] - Messages about the primary exposure and damage over exposure over the minimap + sound.
 * [TankCarousel][] - TankCarousel some configs for carousel
-* [UT_Announcer][] - Announcer of all the deaths made by you or by the team, as well as the medals obtained in a platoon.
 * [VehicleExpExtended][] - Display, experience for searching vehicles/modules and campaign missions.
 
 
@@ -54,7 +53,6 @@
 [ServerTurretExtended]:./ServerTurretExtended/
 [SpottedExtendedLight]:./SpottedExtendedLight/
 [TankCarousel]: ./TankCarousel/
-[UT_Announcer]: ./UT_Announcer/
 [VehicleExpExtended]: ./VehicleExpExtended/
 
 --------------------------------------------
