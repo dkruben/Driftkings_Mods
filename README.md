@@ -17,17 +17,18 @@
 * [BattleEfficiency][] - Battle Efficiency (Calculator in Battle and in game ended)
 * [BattleOptions][] - Remove trajectoryView, siegeIndicator, questProgress, helpScreen, postmortemTips, extended SixthSense Duration Time, and Map borders with another color.
 * [BattleMessages][] - Battle Messages (Spotted, Team Damage, ReloadTime, Arty damage and TargetFocus), and Reduce Number of lines in chat.
-* [ChatInfo][] - An informative chat, highlights in the chat of twins, beginners, shows the percentage of victories and the number of battles a player has in the chat message.
 * [ChatMessagesController][] - Enable or Disable Chat in battle.
 * [CrewExtended][] - Crew leveling, shows the number of battles and experience until the next studied crew perk.
 * [DispersionCircle][] - Replacing the circle of information with a circle of scatter, or adding a second.
 * [HangarOptions][] - It's a mod, which removes the advertisements in the hangar, adds, auto-login and others.
+* [InfoPanel][] - Players info panel.
 * [LogsSwapper][] - Inverted Damage Panel Style (XVM) Damage dealt on top, damage taken down.
 * [MarksOnGunExtended][] - "Marks", the progress of marks on the weapon in battle and showing the boundaries of the total damage to take a mark in the statistics of the tank(author: spoter, re-build: Driftkings).
 * [MinimapPlugins][] - Show dead names and tanks in minimap.
 * [PlayersPanelHP][] - HP in Players List(Players Panel)
 * [RepairExtended][] - Quick crew repair and treatment.
 * [SafeShot][] - Block Team Damage.
+* [SpottedStatus][] - Spotted Status (Players Panel).
 * [ServerTurretExtended][] - Auto-speed for wheeled vehicles, completes the tank turret in server coordinates, automatically activates the “Stop for Shot” when braking the tank, increases the accuracy of fire.
 * [SpottedExtendedLight][] - Messages about the primary exposure and damage over exposure over the minimap + sound.
 * [TankCarousel][] - TankCarousel some configs for carousel
@@ -39,7 +40,7 @@
 [BattleEfficiency]: ./BattleEfficiency/
 [BattleOptions]: ./BattleOptions/
 [BattleMessages]: ./BattleMessages/
-[ChatInfo]:./ChatInfo/
+[InfoPanel]:./InfoPanel/
 [ChatMessagesController]: ./ChatMessagesController/
 [CrewExtended]: ./CrewExtended/
 [DispersionCircle]: ./DispersionCircle/
@@ -50,6 +51,7 @@
 [PlayersPanelHP]: ./PlayersPanelHP/
 [RepairExtended]: ./RepairExtended/
 [SafeShot]: ./SafeShot/
+[SpottedStatus]: ./SpottedStatus/
 [ServerTurretExtended]:./ServerTurretExtended/
 [SpottedExtendedLight]:./SpottedExtendedLight/
 [TankCarousel]: ./TankCarousel/
