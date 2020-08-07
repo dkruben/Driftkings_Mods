@@ -4,7 +4,7 @@
  - @2020
  - Support @mail 'driftkingsmods@gmail.com'
  - Patreon: https://www.patreon.com/driftkings_mods/
- - WOT 1.9.1.2
+ - WOT 1.1.0.0
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
@@ -25,13 +25,14 @@
 * [LogsSwapper][] - Inverted Damage Panel Style (XVM) Damage dealt on top, damage taken down.
 * [MarksOnGunExtended][] - "Marks", the progress of marks on the weapon in battle and showing the boundaries of the total damage to take a mark in the statistics of the tank(author: spoter, re-build: Driftkings).
 * [MinimapPlugins][] - Show dead names and tanks in minimap.
-* [PlayersPanelHP][] - HP in Players List(Players Panel)
+* [PlayersPanelHP][] - HP in Players List(Players Panel).
 * [RepairExtended][] - Quick crew repair and treatment.
 * [SafeShot][] - Block Team Damage.
 * [SpottedStatus][] - Spotted Status (Players Panel).
 * [ServerTurretExtended][] - Auto-speed for wheeled vehicles, completes the tank turret in server coordinates, automatically activates the “Stop for Shot” when braking the tank, increases the accuracy of fire.
+* [SixthSenseIcon][] - SixthSense Icon, change icon wen you are spotted and sound(10 sounds by default, go to ../Games/WorldOfTanks/mods/configs/Driftkings/SixthSenseIcon/SixthSenseIcon.json)
 * [SpottedExtendedLight][] - Messages about the primary exposure and damage over exposure over the minimap + sound.
-* [TankCarousel][] - TankCarousel some configs for carousel
+* [TankCarousel][] - TankCarousel some configs for carousel.
 * [VehicleExpExtended][] - Display, experience for searching vehicles/modules and campaign missions.
 
 
@@ -52,8 +53,9 @@
 [RepairExtended]: ./RepairExtended/
 [SafeShot]: ./SafeShot/
 [SpottedStatus]: ./SpottedStatus/
-[ServerTurretExtended]:./ServerTurretExtended/
-[SpottedExtendedLight]:./SpottedExtendedLight/
+[ServerTurretExtended]: ./ServerTurretExtended/
+[SixthSenseIcon]: ./SixthSenseIcon/
+[SpottedExtendedLight]: ./SpottedExtendedLight/
 [TankCarousel]: ./TankCarousel/
 [VehicleExpExtended]: ./VehicleExpExtended/
 
