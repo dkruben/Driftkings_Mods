@@ -1,5 +1,4 @@
-﻿[![Python 2.7.18](https://img.shields.io/badge/python-2.7.18-blue.svg)](https://www.python.org/downloads/release/python-2718/)
----------------------------------------------
+﻿---------------------------------------------
 **Driftkink's Mod List:**
 ---------------------------------------------
  - @2020
@@ -62,5 +61,9 @@
 
 --------------------------------------------
 Python Part:
-* [PyCharm](https://www.jetbrains.com/pycharm/): Python IDE for Professional Developers by JetBrains 
+
+[![Python 2.7.18](https://img.shields.io/badge/python-2.7.18-blue.svg)](https://www.python.org/downloads/release/python-2718/)
+
+[![PyCharm 202020.2.3](https://img.shields.io/badge/PyCharm-202020.2.3-green.svg)](https://www.jetbrains.com/pycharm/)
+
 --------------------------------------------
