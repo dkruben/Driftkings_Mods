@@ -8,8 +8,8 @@ jobs:
     steps:
       - name: Setup Python 2.7.18
         run: |
-          wget https://github.com/dkruben/setup-python/releases/download/2.7.18/python_2.7.18-1_amd64.deb
-          sudo apt install ./python_2.7.18-1_amd64.deb -y --allow-downgrades
+          wget https://github.com/dkruben/setup-python/releases/download/2.7.18/python_2.7.18_amd64.deb
+          sudo apt install ./python_2.7.18_amd64.deb -y --allow-downgrades
       - name: Clone repo
         uses: actions/checkout@master
 
