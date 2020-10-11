@@ -6,10 +6,10 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      - name: Setup Python 2.7.18
+      - name: Setup Python 2.7.7
         run: |
-          wget https://github.com/dkruben/setup-python/releases/download/2.7.18/python_2.7.18_amd64.deb
-          sudo apt install ./python_2.7.18_amd64.deb -y --allow-downgrades
+          wget https://github.com/dkruben/setup-python/releases/download/2.7.7/python_2.7.7-1_amd64.deb
+          sudo apt install ./python_2.7.7-1_amd64.deb -y --allow-downgrades
       - name: Clone repo
         uses: actions/checkout@master
 
