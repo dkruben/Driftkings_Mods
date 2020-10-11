@@ -1,10 +1,11 @@
-﻿---------------------------------------------
+﻿[![Python 2.7.18](https://img.shields.io/badge/python-2.7.18-blue.svg)](https://www.python.org/downloads/release/python-2718/)
+---------------------------------------------
 **Driftkink's Mod List:**
 ---------------------------------------------
  - @2020
  - Support @mail 'driftkingsmods@gmail.com'
  - Patreon: https://www.patreon.com/driftkings_mods/
- - WOT 1.10.0.1
+ - WOT 1.10.0.4
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
