@@ -8,7 +8,7 @@
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
-2. Download **zip** - archive with the mod and extract its contents to a folder **"World_of_Tanks\\"** on the computer.
+2. Download **zip** - archive with the mod and extract its contents to a folder **"World_of_Tanks\mods\"** on the computer.
  --------------------------------------------
 
 ### Mods Description:
