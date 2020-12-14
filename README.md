@@ -23,7 +23,7 @@
 * [HangarOptions][] - It's a mod, which removes the advertisements in the hangar, adds, auto-login and others.
 * [InfoPanel][] - Players info panel.
 * [LogsSwapper][] - Inverted Damage Panel Style (XVM) Damage dealt on top, damage taken down.
-* [MarksOnGunExtended][] - "Marks", the progress of marks on the weapon in battle and showing the boundaries of the total damage to take a mark in the statistics of the tank(author: spoter, re-build: Driftkings).
+* [MarksOnGun][] - "Marks", the progress of marks on the weapon in battle and showing the boundaries of the total damage to take a mark in the statistics of the tank(author: spoter, re-build: Driftkings).
 * [MinimapPlugins][] - Show dead names and tanks in minimap.
 * [PlayersPanelHP][] - HP in Players List(Players Panel).
 * [RepairExtended][] - Quick crew repair and treatment.
@@ -47,7 +47,7 @@
 [DispersionCircle]: ./DispersionCircle/
 [HangarOptions]: ./HangarOptions/
 [LogsSwapper]: ./LogsSwapper/
-[MarksOnGunExtended]:./MarksOnGunExtended/
+[MarksOnGun]:./MarksOnGun/
 [MinimapPlugins]: ./MinimapPlugins/
 [PlayersPanelHP]: ./PlayersPanelHP/
 [RepairExtended]: ./RepairExtended/

@@ -1,4 +1,4 @@
-# MarksOnGunExtended
+# MarksOnGunBattle
 #### Mod Description:
      Progress of the mark on the gun in battle and showing the boundaries of the total damage to take a mark in the statistics of the tank.
 
