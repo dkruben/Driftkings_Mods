@@ -4,7 +4,7 @@
  - @2021
  - Support @mail 'driftkingsmods@gmail.com'
  - Patreon: https://www.patreon.com/driftkings_mods/
- - WOT 1.11.0.0
+ - WOT 1.11.1.1
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
@@ -34,7 +34,6 @@
 * [SpottedExtendedLight][] - Messages about the primary exposure and damage over exposure over the minimap + sound.
 * [TankCarousel][] - TankCarousel some configs for carousel.
 * [VehicleExpExtended][] - Display, experience for searching vehicles/modules and campaign missions.
-
 
 [ArtySplash]: ./ArtySplash/
 [AutoAimOptimize]: ./AutoAimOptimize/
