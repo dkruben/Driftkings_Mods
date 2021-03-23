@@ -4,7 +4,7 @@
  - @2021
  - Support @mail 'driftkingsmods@gmail.com'
  - Patreon: https://www.patreon.com/driftkings_mods/
- - WOT 1.11.1.2
+ - WOT 1.12.0.0
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
@@ -18,6 +18,7 @@
 * [BattleOptions][] - Remove trajectoryView, siegeIndicator, questProgress, helpScreen, postmortemTips, extended SixthSense Duration Time, and Map borders with another color.
 * [BattleMessages][] - Battle Messages (Spotted, Team Damage, ReloadTime, Arty damage and TargetFocus), and Reduce Number of lines in chat.
 * [ChatMessagesController][] - Enable or Disable Chat in battle.
+* [ClockTimer][] - Clock in, battle, login and lobby.
 * [CrewExtended][] - Crew leveling, shows the number of battles and experience until the next studied crew perk.
 * [DispersionCircle][] - Replacing the circle of information with a circle of scatter, or adding a second.
 * [HangarOptions][] - It's a mod, which removes the advertisements in the hangar, adds, auto-login and others.
@@ -42,6 +43,7 @@
 [BattleMessages]: ./BattleMessages/
 [InfoPanel]:./InfoPanel/
 [ChatMessagesController]: ./ChatMessagesController/
+[ClockTimer]: ./ClockTimer/
 [CrewExtended]: ./CrewExtended/
 [DispersionCircle]: ./DispersionCircle/
 [HangarOptions]: ./HangarOptions/
