@@ -4,7 +4,7 @@
  - @2021
  - Support @mail 'driftkingsmods@gmail.com'
  - Patreon: https://www.patreon.com/driftkings_mods/
- - WOT 1.14.0.0
+ - WOT 1.14.0.2
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
