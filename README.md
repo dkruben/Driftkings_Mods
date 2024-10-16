@@ -5,7 +5,7 @@
  - @2020 - 2024
  - Support @mail 'driftkingsmods@gmail.com'
  - Patreon: https://www.patreon.com/driftkings_mods/
- - WOT 1.26.0.1
+ - WOT 1.26.1.1
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
@@ -27,8 +27,6 @@
 * [HangarOptions][] - It's a mod, which removes the advertisements in the hangar, adds, auto-login and others.
 * [InfoPanel][] - Players info panel.
 * [LogsSwapper][] - Inverted Damage Panel Style (XVM) Damage dealt on top, damage taken down.
-* [MarksOnGunExtended][] - "Marks", the progress of marks on the weapon in battle and showing the boundaries of the total damage to take a mark in the statistics of the tank(author: spoter, re-build: Driftkings).
-* [MarksOnGunTechTree][] - Show Mark gun value in techtree.
 * [MinimapPlugins][] - Show dead names and tanks in minimap and zoom.
 * [PlayersPanelHP][] - HP in Players List(Players Panel).
 * [RepairExtended][] - Quick crew repair and treatment.
@@ -41,7 +39,6 @@
 * [ZoomExtended][] - Zoom in to x30(max 45)
 
 
-[AimingAngles]: aimingAngles
 [ArtySplash]: https://github.com/dkruben/Driftkings_Mods/tree/master/ArtySplash
 [AutoAimOptimize]: https://github.com/dkruben/Driftkings_Mods/tree/master/AutoAimOptimize
 [BattleEfficiency]: https://github.com/dkruben/Driftkings_Mods/tree/master/BattleEfficiency
@@ -52,7 +49,6 @@
 [DispersionCircle]: https://github.com/dkruben/Driftkings_Mods/tree/master/DispersionCircle
 [HangarOptions]: https://github.com/dkruben/Driftkings_Mods/tree/master/HangarOptions
 [LogsSwapper]: https://github.com/dkruben/Driftkings_Mods/tree/master/LogsSwapper
-[MarksOnGunExtended]: https://github.com/dkruben/Driftkings_Mods/tree/master/MarksOnGunExtended
 [MinimapPlugins]: https://github.com/dkruben/Driftkings_Mods/tree/master/MinimapPlugins
 [PlayersPanelHP]: https://github.com/dkruben/Driftkings_Mods/tree/master/PlayersPanelHP
 [RepairExtended]: https://github.com/dkruben/Driftkings_Mods/tree/master/RepairExtended
