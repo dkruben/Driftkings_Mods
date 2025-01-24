@@ -2,7 +2,7 @@
 **Driftkink's Mod List:**
 ---------------------------------------------
 ---------------------------------------------
- - @2020 - 2024
+ - @2020 - 2025
  - Support @mail 'driftkingsmods@gmail.com'
  - Patreon: https://www.patreon.com/driftkings_mods/
  - WOT 1.27.1.0
@@ -13,16 +13,12 @@
  --------------------------------------------
 
 ### Mods Description:
-* [ArcadeCamara][] - Arcade Zoom (no limits zoom out)
-* [AimingAngles][] - Limits of the gun dispersion.
 * [ArtySplash][] - Scope of the alleged propagation of HE and stun (for HE shells).
 * [AutoAimOptimize][] - AutoAimOptimize get targets behind obstacles.
 * [BattleEfficiency][] - Battle Efficiency (Calculator in Battle and in game ended)
 * [BattleOptions][] - Remove trajectoryView, siegeIndicator, questProgress, helpScreen, postmortemTips, and Map borders with another color.
-* [ChatMessagesController][] - Enable or Disable Chat in battle.
 * [CrewSettings][] - Crew leveling, shows the number of battles and experience until the next studied crew perk.
 * [DispersionCircle][] - Replacing the circle of information with a circle of scatter, or adding a second.
-* [DispersionTimer][] - Show real gun dispersion.
 * [HangarEfficiency][] - Show ifo about your tank in hangar.
 * [HangarOptions][] - It's a mod, which removes the advertisements in the hangar, adds, auto-login and others.
 * [InfoPanel][] - Players info panel.
@@ -35,7 +31,6 @@
 * [ServerTurretExtended][] - Auto-speed for wheeled vehicles, completes the tank turret in server coordinates, automatically activates the “Stop for Shot” when braking the tank, increases the accuracy of fire.
 * [SixthSense][] - SixthSense Icon, change icon wen you are spotted, sound(10 sounds by default) and show message in battle.
 * [SpottedExtendedLight][] - Messages about the primary exposure and damage over exposure over the minimap + sound.
-* [VehicleExpExtended][] - Display, experience for searching vehicles/modules and campaign missions.
 * [ZoomExtended][] - Zoom in to x30(max 45)
 
 
@@ -44,9 +39,9 @@
 [BattleEfficiency]: https://github.com/dkruben/Driftkings_Mods/tree/master/BattleEfficiency
 [BattleOptions]: https://github.com/dkruben/Driftkings_Mods/tree/master/BattleOptions
 [InfoPanel]: https://github.com/dkruben/Driftkings_Mods/tree/master/InfoPanel
-[ChatMessagesController]: https://github.com/dkruben/Driftkings_Mods/tree/master/ChatMessagesController
-[CrewExtended]: https://github.com/dkruben/Driftkings_Mods/tree/master/CrewExtended
+[CrewSettings]: https://github.com/dkruben/Driftkings_Mods/tree/master/CrewSettings
 [DispersionCircle]: https://github.com/dkruben/Driftkings_Mods/tree/master/DispersionCircle
+[HangarEfficiency]: https://github.com/dkruben/Driftkings_Mods/tree/master/HangarEfficiency
 [HangarOptions]: https://github.com/dkruben/Driftkings_Mods/tree/master/HangarOptions
 [LogsSwapper]: https://github.com/dkruben/Driftkings_Mods/tree/master/LogsSwapper
 [MinimapPlugins]: https://github.com/dkruben/Driftkings_Mods/tree/master/MinimapPlugins
@@ -55,9 +50,10 @@
 [SafeShot]: https://github.com/dkruben/Driftkings_Mods/tree/master/SafeShot
 [SpottedStatus]: https://github.com/dkruben/Driftkings_Mods/tree/master/SpottedStatus
 [ServerTurretExtended]: https://github.com/dkruben/Driftkings_Mods/tree/master/ServerTurretExtended
+[SixthSense]: https://github.com/dkruben/Driftkings_Mods/tree/master/SixthSense
 [SixthSenseIcon]: https://github.com/dkruben/Driftkings_Mods/tree/master/SixthSenseIcon
 [SpottedExtendedLight]: https://github.com/dkruben/Driftkings_Mods/tree/master/SpottedExtendedLight
-[VehicleExpExtended]: https://github.com/dkruben/Driftkings_Mods/tree/master/VehicleExpExtended
+[ZoomExtended]: https://github.com/dkruben/Driftkings_Mods/tree/master/ZoomExtended
 
 --------------------------------------------
 Python Part:
