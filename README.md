@@ -5,7 +5,7 @@
  - @2020 - 2025
  - Support @mail 'driftkingsmods@gmail.com'
  - Patreon: https://www.patreon.com/driftkings_mods/
- - WOT 1.27.1.0
+ - WOT 1.28.0.0
  --------------------------------------------
 ### Install:
 1. Go to the link above to the mod folder, then to the folder **"zip\\"**
@@ -62,4 +62,11 @@ Python Part:
 
 [![PyCharm 2024.1](https://img.shields.io/badge/PyCharm-2024.1-green.svg)](https://www.jetbrains.com/pycharm/)
 
+
+Thanks to:
+--> Izebrg (Renat Iliev)
+--> Poliroid (Andrii Andrushchyshyn)
+--> PolyacovYury
+--> Spoter (Peter Rastorguev)
+--> CH4MPi (Vladimir Kuznetsov)
 --------------------------------------------
