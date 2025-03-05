@@ -64,9 +64,14 @@ Python Part:
 
 
 Thanks to:
---> Izebrg (Renat Iliev)
---> Poliroid (Andrii Andrushchyshyn)
---> PolyacovYury
---> Spoter (Peter Rastorguev)
---> CH4MPi (Vladimir Kuznetsov)
+ ###
+ > Izebrg (Renat Iliev)
+ ###
+ > Poliroid (Andrii Andrushchyshyn)
+ ###
+ > PolyacovYury
+ ###
+ > Spoter (Peter Rastorguev)
+ ###
+ > CH4MPi (Vladimir Kuznetsov)
 --------------------------------------------
