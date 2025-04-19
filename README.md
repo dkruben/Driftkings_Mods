@@ -1,6 +1,6 @@
 ﻿# Driftkings's Mod List for World of Tanks
 
-![WOT Version](https://img.shields.io/badge/WOT-1.28.0.1-red.svg)
+![WOT Version](https://img.shields.io/badge/WOT-1.28.1.0-red.svg)
 [![Python 2.7.18](https://img.shields.io/badge/python-2.7.18-blue.svg)](https://www.python.org/downloads/release/python-2718/)
 [![PyCharm 2024.3](https://img.shields.io/badge/PyCharm-2024.3-green.svg)](https://www.jetbrains.com/pycharm/)
 
@@ -15,7 +15,7 @@
 - **Period:** 2020 - 2025
 - **Support:** driftkingsmods@gmail.com
 - **Patreon:** [https://www.patreon.com/driftkings_mods/](https://www.patreon.com/driftkings_mods/)
-- **WOT Version:** 1.28.0.1
+- **WOT Version:** 1.28.1.0
 
 ## Installation
 1. Access the link above for the mod folder, then go to the **"zip\"** folder
@@ -28,6 +28,7 @@
 * **BattleEfficiency** - Battle Efficiency (Calculator during battle and at the end of the game).
 * **BattleOptions** - Removes trajectoryView, siegeIndicator, questProgress, helpScreen, postmortemTips and map borders with different color.
 * **CrewSettings** - Auto return crew.
+* ***DistanceMarker** - Shows the distance to the enemy or ally tank.
 * **DispersionCircle** - Replaces information circle with dispersion circle, or adds a second one.
 * **DispersionTimer** - Shows the actual gun dispersion.
 * **HangarEfficiency** - Shows information about your tank in the garage.
@@ -47,9 +48,12 @@
 
 ## Technologies
 * Python 2.7.18
+* ActionScript 3.0
+* FlashDeveloper 5.3.3
+* Animate CC 2024
 * PyCharm Community Edition 2024.1.3
 * AI Assistant (JetBrains)
-* MonicaAI
+* MonicaIA (JetBrains)
 
 ## Acknowledgments
 * **Izebrg** (Renat Iliev)
