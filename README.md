@@ -15,7 +15,7 @@
 - **Period:** 2020 - 2025
 - **Support:** driftkingsmods@gmail.com
 - **Patreon:** [https://www.patreon.com/driftkings_mods/](https://www.patreon.com/driftkings_mods/)
-- **WOT Version:** 1.28.1.1
+- **WOT Version:** 2.0.0.0
 
 ## Installation
 1. Access the link above for the mod folder, then go to the **"zip\"** folder
